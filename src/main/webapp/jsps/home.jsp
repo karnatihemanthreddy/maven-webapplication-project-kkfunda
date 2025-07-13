@@ -55,7 +55,7 @@
 <body>
 
 <header>
-    <h1>Welcome to KK DevOps</h1>
+    <h1>Welcome to KK DevOps and sre</h1>
     <h2>KK DEVOPS WITH AWS AND SRE IN TELUGU</h2>
 </header>
 
